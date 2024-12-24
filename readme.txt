@@ -10,12 +10,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/15
+*/10
 - */1 Readme
-- */3 Basic HTML content
-- */3 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
+- */2 Basic HTML content
+- */1 Basic CSS styling
+- */1 Advanced feature
+- */2 Responsive layout
 - */1 Passes validation checks
 - */2 Embraces spirit of the assignment
 
@@ -37,7 +37,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 
-4. What online resources did you consult when completing this assignment? (list specific URLs)
+4. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 
 
 
